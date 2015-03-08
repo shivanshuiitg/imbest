@@ -1,0 +1,12 @@
+Projects: 
+1: Heat Treatment
+2: Project Management System (PHP , Jquery , Ajax)
+3: Android App
+4: Online Quizzing Application for EDC IIT Guwahati.
+
+Computing Skills:
+Programming Language: C , Java 
+Scripting Language: PHP(moderate) 
+Webdevelopment: HTML , CSS , Javascript(basic) , Jquery(Moderate), Ajax(basic)
+DBMS: MySQL 
+Operating System: Windows 7 / Windows 8 / Ubuntu
